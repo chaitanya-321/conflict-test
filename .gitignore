@@ -1,0 +1,11 @@
+#MacOS
+.DB_store
+
+
+#Windows-OS
+thumbs-db
+
+
+#JAR FILES
+*.jar
+[xyz]*.txt
